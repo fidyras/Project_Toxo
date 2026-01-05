@@ -1,0 +1,9 @@
+*.DS_Store
+Analysis-climate-old-papers/*.xlsx
+data/UNdataFertPop/*.xlsx
+
+.Rhistory
+.RData
+.Ruserdata
+.Rproj.user/
+*.Rproj
