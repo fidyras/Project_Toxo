@@ -1,5 +1,5 @@
 
-
+## Location of all of the data (change to your path)
 fname <- "data/"
 
 
@@ -661,7 +661,7 @@ summary(fitxx)
 
 
 ## Currently presented as Figure S5
-pdf("figures/FigToxoTemp.pdf")
+pdf("figures/Fig_S5.pdf")
 
 ## Reveal all countries
 zlims <- range(c(burdens2023,burdens2050,burdens2100),na.rm=T)
